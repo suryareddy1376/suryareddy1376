@@ -22,21 +22,6 @@ AI & Machine Learning engineering student focused on **fundamentals, execution, 
 
 ---
 
-## 💻 Tech Stack
-
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
----
-
-## 📊 GitHub Activity Snapshot
-
-<p align="center">
-  <img src="./assets/github-stats.png" alt="Tech Stack and GitHub Stats" width="85%">
-</p>
-
----
-
 ## 🧰 Tools & Skills
 
 ```text
